@@ -1,18 +1,9 @@
-[submodule "3rdParty/vectr.lua"]
-	path = 3rdParty/vectr.lua
-	url = git@github.com:automattf/vector.lua.git
-[submodule "3rdParty/vector.lua"]
-	path = 3rdParty/vector.lua
-	url = git@github.com:automattf/vector.lua.git
 [submodule "3rdParty/LuaVector"]
 	path = 3rdParty/LuaVector
 	url = git@github.com:Syndyr/LuaVector.git
 [submodule "3rdParty/lume"]
 	path = 3rdParty/lume
 	url = git@github.com:rxi/lume.git
-[submodule "3rdParty/log.lua"]
-	path = 3rdParty/log.lua
-	url = git@github.com:rxi/log.lua.git
 [submodule "3rdParty/lurker"]
 	path = 3rdParty/lurker
 	url = git@github.com:rxi/lurker.git
